@@ -6,4 +6,4 @@ Objectives :
 2. Blockchain's Uses and Benefits
 3. Create a simple Blockchain
 
-![](https://github.com/TimothySilalahi/Portfolio/blob/main/images/Postman.png)
+![](/images/Postman.png)
