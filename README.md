@@ -1,2 +1,2 @@
 # Timoty SIlalahi
-Consists of My Personal Portfolio
+Consists of Timoty Silalahi's Portfolio
