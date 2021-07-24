@@ -11,7 +11,9 @@ Create a Face Recognition algorithm using Open CV in Python. (To detect a face, 
 To open this repository, either click the link on the Title 'Open CV' or you can click [here](https://github.com/TimothySilalahi/open-cv).
 
 ### [Visualization With Tableau](https://public.tableau.com/app/profile/timothy.silalahi)
+Make visualizations and dashboards on Declining Game Sales and UK Demographics.
 
+Do visit my Tableau Public Page by either clicking the link on the Title 'Visualization With Tableau' or you can click [here](https://public.tableau.com/app/profile/timothy.silalahi).
 ![](/images/Tableau.png)
 
 ### [Blockchain](https://github.com/TimothySilalahi/simple-blockchain)
