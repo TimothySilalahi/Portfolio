@@ -1,4 +1,4 @@
-### Portfolio
+## Portfolio
 
 ### [Machine Learning](https://github.com/TimothySilalahi/Machine-Learning)
 Put into practice, machine learning algorithms ranging from Regression, Classification, Clustering, and Natural Language Processing.
@@ -26,8 +26,8 @@ To open this repository, either click the link on the Title 'Blockchain' or you 
 
 ![](/images/Postman.png)
 
-##  This will lead you to [TimotySilalahi's Repository](https://github.com/TimothySilalahi?tab=repositories) on Github
-##  Feel Free to contact me via email at abimanyutimothy@gmail.com.
+###  This will lead you to [TimotySilalahi's Repository](https://github.com/TimothySilalahi?tab=repositories) on Github
+### Feel Free to contact me via email at abimanyutimothy@gmail.com.
 
 
 
