@@ -26,7 +26,9 @@ To open this repository, either click the link on the Title 'Blockchain' or you 
 
 ![](/images/Postman.png)
 
-###  This will lead you to [TimotySilalahi's Repository](https://github.com/TimothySilalahi?tab=repositories) on Github
+## Socials
+### This will lead you to [TimotySilalahi's Repository](https://github.com/TimothySilalahi?tab=repositories) on Github
+### Follow Timoty Silalahi's [LinkedIn](https://www.linkedin.com/in/timothysilalahi/).
 ### Feel Free to contact me via email at abimanyutimothy@gmail.com.
 
 
